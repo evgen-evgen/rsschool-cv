@@ -1,5 +1,5 @@
 # BASOV EVGENI 
-![my foto](./photo_2020-12-22_16-09-34.jpg)
+![my foto](./foto_evgen.jpg)
 
 ### **about myself**
 > I'm an engineer based in Minsk ✊❤️✌️ with 1 years of experience in the IT industry. 
