@@ -1,5 +1,5 @@
 # BASOV EVGENI 
-![my foto](/home/egen/Downloads/Telegram Desktop/photo_2020-12-22_16-09-34.jpg)
+![my foto](./photo_2020-12-22_16-09-34.jpg)
 
 ### **about myself**
 > I'm an engineer based in Minsk ✊❤️✌️ with 1 years of experience in the IT industry. 
@@ -11,4 +11,4 @@ My focus area for the past years has been back-end development with Python, ETL 
 * волонтерский проект на word press: подключение плагинов, оптимизация сайта, настройка поиска
 * разработка чат-ботов на платформе телеграм: разработка игр,ботов, деплой  на сервер 
 * разработка  маркет-плейса: полный цикл разработки, составление тз, проектирование бд, разработка приложения. 
-* куратор 2-ух потоков курсов: "Основы python для анализа данных" 	
+ 	
