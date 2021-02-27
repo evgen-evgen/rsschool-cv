@@ -1,6 +1,9 @@
 # BASOV EVGENI 
 ![my foto](./foto_evgen.jpg)
 
+### contact with me 
+📞 + 375 29 575 29 01    📨 basovevgeni2017@gmail.com    tg: @evgeni_jb
+
 ### **about myself**
 > I'm an engineer based in Minsk ✊❤️✌️ with 1 years of experience in the IT industry. 
 My focus area for the past years has been back-end development with Python, ETL process, ML, and analyze data. But I'm also skilled in HTML and CSS.
@@ -12,3 +15,4 @@ My focus area for the past years has been back-end development with Python, ETL 
 * разработка чат-ботов на платформе телеграм: разработка игр,ботов, деплой  на сервер 
 * разработка  маркет-плейса: полный цикл разработки, составление тз, проектирование бд, разработка приложения. 
  	
+
